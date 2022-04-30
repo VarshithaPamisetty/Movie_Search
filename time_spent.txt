@@ -1,0 +1,5 @@
+I have created various temporary variables to store allMovies, so that the original allMovies array doesnt get affected.
+
+I have created different functions that are used to perform various functionalities.
+
+The time spent on this assignment is about 1.5 hrs including all the documentation part.
